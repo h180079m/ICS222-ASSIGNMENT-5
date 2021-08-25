@@ -1,0 +1,20 @@
+tr,
+td,
+table {
+  border: 1px solid black;
+  border-collapse: collapse;  
+}
+td {
+  padding: 15px;
+}
+
+table {
+  margin: 20px;
+}
+
+
+
+.zebraStripe {
+  background-color: black;
+  color: white;
+}
